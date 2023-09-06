@@ -9,7 +9,7 @@
 
 <div style="text-align: center;">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=MatheusPino&theme=transparent&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF"/>   <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusPino&layout=compact&bg_color=000&border_color=FF00FF&title_color=FF7700&text_color=FFF"/>
+<img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusPino&theme=transparent&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF"/>   <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusPino&layout=compact&bg_color=000&border_color=FFFFFF&title_color=FF7700&text_color=FFF"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
@@ -23,11 +23,11 @@
 
 ### Repositórios em destaque:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusPino&repo=registro-de-negociacoes&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/registro-de-negociacoes)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=registro-de-negociacoes&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/registro-de-negociacoes)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusPino&repo=aluramidi&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/aluramidi)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=aluramidi&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/aluramidi)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusPino&repo=jogo_alvo&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/jogo_alvo)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=jogo_alvo&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/jogo_alvo)
 
 
 
