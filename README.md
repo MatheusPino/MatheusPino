@@ -27,7 +27,7 @@
 
 [![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=desafio-final-mod1-ada&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/desafio-final-mod1-ada)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=jogo_alvo&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/jogo_alvo)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MatheusPino&repo=BestBrowserGames-Squad3&bg_color=000&border_color=FF00FF&show_icons=true&icon_color=FF00FF&title_color=FF7700&text_color=FFF)](https://github.com/MatheusPino/BestBrowserGames-Squad3)
 
 
 
